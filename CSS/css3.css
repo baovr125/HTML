@@ -1,0 +1,50 @@
+*{
+    box-sizing:border-box;
+    margin: 0 auto;
+}
+#khung{
+    width: 900px;
+    height: 800px; 
+    background-color: aliceblue;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+   text-align: center;
+}
+#menu1{
+    width:100%;
+    height: 50px;
+    background-color: red;
+    
+}
+#menu2{
+    float:left;
+    width:20%;
+    height:500px;
+    background-color: aquamarine;
+}
+section{
+    float: left;
+    width: 60%;
+    height: 500px;
+    background-color: rgb(236, 122, 29);
+}
+aside{
+    float: left;
+    width: 20%;
+    height: 500px;
+    background-color: rgb(236, 29, 184);
+}
+footer{
+    clear: both;
+    width: 100%;
+    height: 150px;
+    background-color: rgb(236, 219, 29);
+}
+.tes{
+    width:100%;
+    height:50px;
+    background-color: brown;
+}
